@@ -17,4 +17,5 @@ langchain
 langgraph
 anthropic
 geoalchemy2
+python-dotenv
 
