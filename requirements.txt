@@ -16,3 +16,4 @@ httpx
 langchain
 langgraph
 anthropic
+GeoAlchemy2
